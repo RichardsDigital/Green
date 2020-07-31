@@ -14,8 +14,7 @@ Here a short **animation** is displayed on button press.
 
 Once the screen size reaches 520px the **border** is **disabled** and the whole component background becomes **white**.
 
-![responsive-prev](./src/images/documentation/responsive-prev.png)
-![responsive-post](./src/images/documentation/responsive-post.png)
+![responsive-prev-post](./src/images/documentation/responsive-prev-post.png)
 
 ### Welcome Screen
 
