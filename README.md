@@ -2,6 +2,8 @@
 
 ### Page Layout
 
+The closest free font to gotham was **Montserrat**, so I used it for this example.
+
 ![standard-layout](./src/images/documentation/standard.png)
 
 ### Button Pressed
