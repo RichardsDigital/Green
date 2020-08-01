@@ -8,7 +8,7 @@ The closest free font to gotham was **Montserrat**, so I used it for this exampl
 
 ### Button Pressed
 
-Here a short **animation** is displayed on button press.
+Here is a short **animation** is displayed on button press.
 
 ![button-pressed](./src/images/documentation/button.png)
 
@@ -20,6 +20,6 @@ Once the screen size reaches 520px the **border** is **disabled** and the whole 
 
 ### Welcome Screen
 
-Once the sign in button is pressed a welcome message replaces the sub-heading using the entered email address.
+Once the **sign in** button is pressed a welcome message then replaces the sub-heading using the entered email address.
 
 ![welcome-screen](./src/images/documentation/welcome-screen.png)
